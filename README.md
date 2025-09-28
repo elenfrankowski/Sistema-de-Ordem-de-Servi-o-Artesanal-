@@ -1,2 +1,4 @@
-# Sistema-de-Ordem-de-Servi-o-Artesanal-
+# Sistema-de-Ordem-de-Servico-Artesanal-
 (Rascunho)
+
+Com esse arquivo será possível cadastrar e listar materiais.
